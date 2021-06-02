@@ -2,6 +2,5 @@
   "name": "Quick-Stake",
   "ticker": "QSTKE",
   "description": "Quick-Stake Cardano Pool",
-  "homepage": "https://quick-stake.io",
-  "verif": "e57d710b0ceae91c40b68b35d60eb636"
+  "homepage": "https://quick-stake.io"
 }
